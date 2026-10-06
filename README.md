@@ -38,7 +38,7 @@ My goal is to join a **Security Operations Centre (SOC) as a Tier 1 SOC Analyst*
 | 🌐 Network Traffic Monitoring | [Suricata IDS Lab](https://github.com/YOUR-GITHUB-USERNAME/Suricata-IDS-Lab) |
 | 🛡️ Network Intrusion Detection | [Suricata IDS Lab](https://github.com/YOUR-GITHUB-USERNAME/Suricata-IDS-Lab) |
 | 🔬 Packet Analysis | [Suricata IDS Lab](https://github.com/YOUR-GITHUB-USERNAME/Suricata-IDS-Lab) |
-| 📧 Phishing Email Analysis | [Phishing Email Analysis](https://github.com/YOUR-GITHUB-USERNAME/Phishing-Email-Analysis) |
+| 📧 Phishing Email Analysis | [Phishing Email Analysis](https://github.com/Cyberrah/Phishing-Email-Analysis) |
 | 🔍 IOC Identification & Analysis | [Phishing Email Analysis](https://github.com/YOUR-GITHUB-USERNAME/Phishing-Email-Analysis) |
 | 🎯 MITRE ATT&CK Mapping | [Phishing Email Analysis](https://github.com/YOUR-GITHUB-USERNAME/Phishing-Email-Analysis) |
 | 📝 Incident Documentation | SOC Investigation Reports |
