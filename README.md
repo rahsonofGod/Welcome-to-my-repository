@@ -133,7 +133,7 @@ My goal is to join a **Security Operations Centre (SOC) as a Tier 1 SOC Analyst*
 
 `SIEM Monitoring` • `Log Analysis` • `Threat Detection` • `SPL` • `Incident Investigation`
 
-➡️ [View Splunk SOC Home Lab](https://github.com/YOUR-GITHUB-USERNAME/Splunk-SOC-Home-Lab)
+➡️ [View Splunk SOC Home Lab](https://github.com/Cyberrah/Splunk-SOC-Home-Lab)
 
 ---
 
