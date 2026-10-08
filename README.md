@@ -188,7 +188,7 @@ My goal is to join a **Security Operations Centre (SOC) as a Tier 1 SOC Analyst*
 
 `Phishing Analysis` • `Email Security` • `IOC Analysis` • `MITRE ATT&CK` • `Incident Response`
 
-➡️ [View Phishing Email Analysis](https://github.com/YOUR-GITHUB-USERNAME/Phishing-Email-Analysis)
+➡️ [View Phishing Email Analysis](https://github.com/Cyberrah/Phishing-Email-Analysis)
 
 ---
 
